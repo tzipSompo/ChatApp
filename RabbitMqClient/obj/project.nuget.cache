@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t/q7cbXzpsZe3IrWSsY10sa7knSgB7LN5PbxuOkWZpHmbEj61lL7jxUVs9jD2jDAOxRr4D7P6+TIFQV2F0mbNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\צפורה\\ChatServer\\RabbitMqClient\\RabbitMqClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
